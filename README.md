@@ -1,6 +1,10 @@
 # Tom Lab Notes
 
-[START HERE FOR NOTES AND ON HOW TO EVALUATE MODELS]
+For evaluating any models, please follow the instructions here: https://github.com/tomg-group-umd/alpaca_eval?tab=readme-ov-file#contributing-a-model.
+
+Also, feel free to open a branch under the project that you are working on and add models specifically on the project branch. Feel free to open issues or contact Neel if you have any questions.
+
+Happy Evaluting! :blush:
 
 # <a href="https://tatsu-lab.github.io/alpaca_eval/" target="_blank"><img src="https://raw.githubusercontent.com/tatsu-lab/alpaca_eval/main/docs/AlpacaFarm_small.png" width="35"></a> [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/) : An Automatic Evaluator for Instruction-following Language Models
 
